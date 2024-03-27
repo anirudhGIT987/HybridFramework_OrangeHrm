@@ -1,0 +1,369 @@
+2023-10-10 15:25:08,392 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:25:11,046 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:25:11,102 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 15:25:11,159 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 15:25:11,165 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 15:25:11,477 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:25:12,544 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:25:18,041 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:25:18,496 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 15:25:18,807 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:25:20,194 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:25:26,089 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:25:27,208 - LogUtility -INFO - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+2023-10-10 15:25:27,805 - LogUtility -INFO - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+2023-10-10 15:25:29,093 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+2023-10-10 15:25:31,369 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+2023-10-10 15:25:31,821 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:38:36,401 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:38:39,898 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:38:39,973 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 15:38:40,025 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 15:38:40,029 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 15:38:40,320 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:38:41,272 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:38:45,171 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:38:45,269 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 15:38:45,543 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:38:46,924 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:38:50,448 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:38:52,520 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:40:38,340 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:40:40,777 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:40:40,849 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 15:40:40,894 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 15:40:40,897 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 15:40:41,131 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:40:42,360 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:40:45,995 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:40:46,078 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 15:40:46,312 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:40:47,907 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:40:50,989 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:40:52,832 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:43:16,682 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:43:20,150 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:43:20,244 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 15:43:20,311 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 15:43:20,316 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 15:43:20,533 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:43:22,944 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:43:26,788 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:43:26,899 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 15:43:27,136 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:43:28,142 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:43:31,839 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:43:33,645 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 15:46:35,770 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:46:38,824 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:46:38,915 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 15:46:38,963 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 15:46:38,967 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 15:46:41,596 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:46:46,723 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:46:46,858 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 15:46:51,938 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:46:57,610 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:49:18,653 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:49:21,701 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:49:21,793 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 15:49:21,880 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 15:49:21,886 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 15:49:25,870 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:49:32,597 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:49:32,729 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 15:49:39,919 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:49:40,775 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:54:13,777 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:54:17,727 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:54:17,812 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 15:54:17,868 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 15:54:17,874 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 15:54:20,116 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:54:24,408 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 15:54:24,512 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 15:54:26,502 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 15:54:34,113 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 16:08:56,798 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 16:09:00,301 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 16:09:00,386 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 16:09:00,440 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 16:09:00,445 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 16:09:07,904 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 16:09:10,217 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 16:09:10,341 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 16:09:13,681 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 16:09:19,252 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 16:12:40,324 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 16:12:43,874 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 16:12:43,942 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 16:12:44,022 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 16:12:44,026 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 16:12:46,617 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 16:12:50,162 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 16:12:50,305 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 16:12:52,835 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 16:12:57,331 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 16:12:59,734 - LogUtility -INFO - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+2023-10-10 16:13:00,768 - LogUtility -INFO - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+2023-10-10 16:13:02,891 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+2023-10-10 16:13:08,672 - LogUtility -INFO - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data
+2023-10-10 16:13:08,674 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+2023-10-10 21:26:59,548 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 21:27:21,413 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:27:21,577 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 21:27:21,966 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 21:27:21,971 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 21:27:22,399 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 21:27:24,650 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 21:27:27,974 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:27:28,280 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 21:27:28,665 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 21:27:31,126 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 21:27:34,658 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:27:41,313 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 21:27:41,320 - LogUtility -INFO - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+2023-10-10 21:27:42,079 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 21:27:42,088 - LogUtility -INFO - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+2023-10-10 21:27:43,997 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 21:27:43,999 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+2023-10-10 21:27:55,856 - LogUtility -INFO - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+2023-10-10 21:27:55,858 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+2023-10-10 21:27:55,860 - LogUtility -INFO - Validation of Log In Button Functionality is Successfully Completed
+2023-10-10 21:27:56,367 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 21:27:58,286 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 21:28:02,331 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:28:18,293 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 21:28:19,563 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 21:28:22,945 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:28:38,227 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 21:28:40,540 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 21:28:43,510 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:28:44,091 - LogUtility -INFO - 0 -- Select --
+2023-10-10 21:28:44,340 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 21:28:45,426 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 21:28:49,321 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:28:49,355 - LogUtility -INFO - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+2023-10-10 21:28:49,422 - LogUtility -INFO - Actual Disability Status of LoginPage's FOoter Login Button :- true
+2023-10-10 21:28:49,425 - LogUtility -INFO - Actual Enable Status of LoginPage's Footer Login Button :- false
+2023-10-10 21:28:49,429 - LogUtility -INFO - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled | FAIL 
+2023-10-10 21:28:49,432 - LogUtility -INFO - OrangeHRM LoginPage's Footer LOgin Button Status is:- false
+2023-10-10 21:28:49,721 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 21:28:50,725 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 21:28:54,543 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:28:54,807 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:10:00,471 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:10:03,135 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:10:03,271 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+2023-10-10 22:10:03,337 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 22:10:03,342 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 22:10:03,506 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 22:10:05,533 - LogUtility -INFO - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+2023-10-10 22:10:05,822 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:10:06,741 - LogUtility -INFO - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+2023-10-10 22:10:06,934 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:10:08,377 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+2023-10-10 22:10:08,554 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:10:11,845 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+2023-10-10 22:10:11,851 - LogUtility -INFO - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+2023-10-10 22:10:11,855 - LogUtility -INFO - Validation of Log In Button Functionality is Successfully Completed
+2023-10-10 22:10:11,969 - LogUtility -INFO - Successfully Clicked Welcome Admin Element
+2023-10-10 22:10:13,949 - LogUtility -INFO - Successfully Clicked Log Out
+2023-10-10 22:10:14,650 - LogUtility -INFO - 0 -- Select --
+2023-10-10 22:10:14,709 - LogUtility -INFO - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+2023-10-10 22:10:14,714 - LogUtility -INFO - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+2023-10-10 22:10:14,809 - LogUtility -INFO - Actual Disability Status of LoginPage's FOoter Login Button :- true
+2023-10-10 22:10:14,815 - LogUtility -INFO - Actual Enable Status of LoginPage's Footer Login Button :- false
+2023-10-10 22:10:14,819 - LogUtility -INFO - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+2023-10-10 22:31:05,648 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:31:09,026 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:31:09,159 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+2023-10-10 22:31:09,213 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 22:31:09,217 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 22:31:09,346 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 22:31:11,599 - LogUtility -INFO - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+2023-10-10 22:31:11,855 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:31:12,574 - LogUtility -INFO - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+2023-10-10 22:31:12,810 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:31:14,198 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+2023-10-10 22:31:14,345 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:31:17,457 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+2023-10-10 22:31:17,464 - LogUtility -INFO - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+2023-10-10 22:31:17,469 - LogUtility -INFO - Validation of Log In Button Functionality is Successfully Completed
+2023-10-10 22:31:17,576 - LogUtility -INFO - Successfully Clicked Welcome Admin Element
+2023-10-10 22:31:19,101 - LogUtility -INFO - Successfully Clicked Log Out
+2023-10-10 22:31:19,341 - LogUtility -INFO - 0 -- Select --
+2023-10-10 22:31:19,401 - LogUtility -INFO - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+2023-10-10 22:31:19,405 - LogUtility -INFO - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+2023-10-10 22:31:19,507 - LogUtility -INFO - Actual Disability Status of LoginPage's FOoter Login Button :- true
+2023-10-10 22:31:19,510 - LogUtility -INFO - Actual Enable Status of LoginPage's Footer Login Button :- false
+2023-10-10 22:31:19,514 - LogUtility -INFO - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+2023-10-10 22:31:20,734 - LogUtility -INFO - 0 Alternative Login :
+-- Select --
+2023-10-10 22:31:20,738 - LogUtility -INFO - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+2023-10-10 22:49:16,069 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:49:19,114 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:49:19,214 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+2023-10-10 22:49:19,265 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 22:49:19,269 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 22:49:19,763 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:49:20,928 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:49:24,227 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:49:24,329 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 22:49:24,557 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:49:25,851 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:49:28,830 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:49:30,327 - LogUtility -INFO - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+2023-10-10 22:49:30,559 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:49:31,572 - LogUtility -INFO - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+2023-10-10 22:49:31,730 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:49:32,909 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+2023-10-10 22:49:33,088 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:49:35,260 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+2023-10-10 22:49:35,265 - LogUtility -INFO - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+2023-10-10 22:49:35,267 - LogUtility -INFO - Validation of Log In Button Functionality is Successfully Completed
+2023-10-10 22:49:35,656 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:49:37,177 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:49:40,092 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:49:55,314 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:49:56,325 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:49:59,480 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:50:14,697 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:50:16,329 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:50:19,057 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:50:19,293 - LogUtility -INFO - 0 -- Select --
+2023-10-10 22:50:19,522 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:50:20,797 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:50:23,504 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:50:23,571 - LogUtility -INFO - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+2023-10-10 22:50:23,574 - LogUtility -INFO - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+2023-10-10 22:50:23,639 - LogUtility -INFO - Actual Disability Status of LoginPage's FOoter Login Button :- true
+2023-10-10 22:50:23,642 - LogUtility -INFO - Actual Enable Status of LoginPage's Footer Login Button :- false
+2023-10-10 22:50:23,643 - LogUtility -INFO - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+2023-10-10 22:50:23,974 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:50:24,919 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:50:28,687 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:50:28,765 - LogUtility -INFO - OrangeHRM Footer Div1 Elements are :- 0 Alternative Login :
+-- Select --
+2023-10-10 22:50:28,767 - LogUtility -INFO - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+2023-10-10 22:50:29,056 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:50:30,208 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:50:33,855 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:50:34,015 - LogUtility -INFO - OrangeHRM Application footer Div2 Elements are:- 0-- OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-10-10 22:50:34,265 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:50:35,279 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:50:38,813 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:50:38,980 - LogUtility -INFO - OrangeHrm Inc. is clicked 
+2023-10-10 22:50:39,007 - LogUtility -INFO - OrangeHRM Inc. WebPage title is:- OrangeHRM
+2023-10-10 22:50:39,010 - LogUtility -INFO - The Actual Title of OrangeHRM Inc. WebPage is NOT matched with the Expected Title | FAIL
+2023-10-10 22:50:39,158 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:50:40,183 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:50:43,987 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:50:44,139 - LogUtility -INFO - OrangeHRM Application Social Icon01 :- null
+2023-10-10 22:50:44,141 - LogUtility -INFO - null is displayed
+2023-10-10 22:50:44,372 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-10 22:52:18,154 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-10 22:52:24,558 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:52:24,691 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+2023-10-10 22:52:24,760 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-10 22:52:24,766 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-10 22:52:24,918 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-10 22:52:27,101 - LogUtility -INFO - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+2023-10-10 22:52:27,351 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:52:28,248 - LogUtility -INFO - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+2023-10-10 22:52:28,438 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:52:30,049 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+2023-10-10 22:52:30,234 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-10 22:52:33,712 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+2023-10-10 22:52:33,718 - LogUtility -INFO - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+2023-10-10 22:52:33,722 - LogUtility -INFO - Validation of Log In Button Functionality is Successfully Completed
+2023-10-10 22:52:33,877 - LogUtility -INFO - Successfully Clicked Welcome Admin Element
+2023-10-10 22:52:34,898 - LogUtility -INFO - Successfully Clicked Log Out
+2023-10-10 22:52:35,497 - LogUtility -INFO - 0 -- Select --
+2023-10-10 22:52:35,557 - LogUtility -INFO - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+2023-10-10 22:52:35,563 - LogUtility -INFO - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+2023-10-10 22:52:35,676 - LogUtility -INFO - Actual Disability Status of LoginPage's FOoter Login Button :- true
+2023-10-10 22:52:35,681 - LogUtility -INFO - Actual Enable Status of LoginPage's Footer Login Button :- false
+2023-10-10 22:52:35,686 - LogUtility -INFO - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+2023-10-10 22:52:35,889 - LogUtility -INFO - OrangeHRM Footer Div1 Elements are :- 0 Alternative Login :
+-- Select --
+2023-10-10 22:52:35,892 - LogUtility -INFO - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+2023-10-10 22:52:36,000 - LogUtility -INFO - OrangeHRM Application footer Div2 Elements are:- 0-- OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-10-10 22:52:36,181 - LogUtility -INFO - OrangeHrm Inc. is clicked 
+2023-10-10 22:52:36,208 - LogUtility -INFO - OrangeHRM Inc. WebPage title is:- OrangeHRM
+2023-10-10 22:52:36,214 - LogUtility -INFO - The Actual Title of OrangeHRM Inc. WebPage is NOT matched with the Expected Title | FAIL
+2023-10-10 22:52:36,372 - LogUtility -INFO - OrangeHRM Application Social Icon01 :- null
+2023-10-10 22:52:36,375 - LogUtility -INFO - null is displayed
+2023-10-10 22:52:36,744 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-11 09:35:30,896 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-11 09:35:39,370 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-11 09:35:39,440 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+2023-10-11 09:35:39,477 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-11 09:35:39,480 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-11 09:35:39,658 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-11 09:35:44,512 - LogUtility -INFO - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+2023-10-11 09:35:44,729 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-11 09:35:45,212 - LogUtility -INFO - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+2023-10-11 09:35:45,342 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-11 09:35:46,331 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+2023-10-11 09:35:46,444 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-11 09:35:52,806 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+2023-10-11 09:35:52,809 - LogUtility -INFO - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+2023-10-11 09:35:52,811 - LogUtility -INFO - Validation of Log In Button Functionality is Successfully Completed
+2023-10-11 09:35:52,951 - LogUtility -INFO - Successfully Clicked Welcome Admin Element
+2023-10-11 09:35:54,087 - LogUtility -INFO - Successfully Clicked Log Out
+2023-10-11 09:35:54,351 - LogUtility -INFO - 0 -- Select --
+2023-10-11 09:35:54,395 - LogUtility -INFO - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+2023-10-11 09:35:54,398 - LogUtility -INFO - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+2023-10-11 09:35:54,451 - LogUtility -INFO - Actual Disability Status of LoginPage's FOoter Login Button :- true
+2023-10-11 09:35:54,452 - LogUtility -INFO - Actual Enable Status of LoginPage's Footer Login Button :- false
+2023-10-11 09:35:54,456 - LogUtility -INFO - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+2023-10-11 09:35:54,576 - LogUtility -INFO - OrangeHRM Footer Div1 Elements are :- 0 Alternative Login :
+-- Select --
+2023-10-11 09:35:54,578 - LogUtility -INFO - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+2023-10-11 09:35:54,641 - LogUtility -INFO - OrangeHRM Application footer Div2 Elements are:- 0-- OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-10-11 09:35:54,746 - LogUtility -INFO - OrangeHrm Inc. is clicked 
+2023-10-11 09:35:54,772 - LogUtility -INFO - OrangeHRM Inc. WebPage title is:- OrangeHRM
+2023-10-11 09:35:54,773 - LogUtility -INFO - The Actual Title of OrangeHRM Inc. WebPage is NOT matched with the Expected Title | FAIL
+2023-10-11 09:35:54,909 - LogUtility -INFO - OrangeHRM Application Social Icon01 :- null
+2023-10-11 09:35:54,912 - LogUtility -INFO - null is displayed
+2023-10-11 09:35:55,476 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2023-10-11 09:37:57,125 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2023-10-11 09:37:59,769 - LogUtility -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-11 09:37:59,847 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+2023-10-11 09:37:59,885 - LogUtility -INFO -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+2023-10-11 09:37:59,887 - LogUtility -INFO -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+2023-10-11 09:37:59,979 - LogUtility -INFO -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+2023-10-11 09:38:00,987 - LogUtility -INFO - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+2023-10-11 09:38:01,201 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-11 09:38:01,617 - LogUtility -INFO - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+2023-10-11 09:38:01,752 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-11 09:38:03,563 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+2023-10-11 09:38:03,689 - LogUtility -INFO - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+2023-10-11 09:38:06,537 - LogUtility -INFO - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+2023-10-11 09:38:06,541 - LogUtility -INFO - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+2023-10-11 09:38:06,543 - LogUtility -INFO - Validation of Log In Button Functionality is Successfully Completed
+2023-10-11 09:38:06,789 - LogUtility -INFO - Successfully Clicked Welcome Admin Element
+2023-10-11 09:38:08,810 - LogUtility -INFO - Successfully Clicked Log Out
+2023-10-11 09:38:08,957 - LogUtility -INFO - 0 -- Select --
+2023-10-11 09:38:08,985 - LogUtility -INFO - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+2023-10-11 09:38:08,987 - LogUtility -INFO - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+2023-10-11 09:38:09,043 - LogUtility -INFO - Actual Disability Status of LoginPage's FOoter Login Button :- true
+2023-10-11 09:38:09,046 - LogUtility -INFO - Actual Enable Status of LoginPage's Footer Login Button :- false
+2023-10-11 09:38:09,050 - LogUtility -INFO - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+2023-10-11 09:38:09,152 - LogUtility -INFO - OrangeHRM Footer Div1 Elements are :- 0 Alternative Login :
+-- Select --
+2023-10-11 09:38:09,153 - LogUtility -INFO - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+2023-10-11 09:38:09,215 - LogUtility -INFO - OrangeHRM Application footer Div2 Elements are:- 0-- OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-10-11 09:38:09,334 - LogUtility -INFO - OrangeHrm Inc. is clicked 
+2023-10-11 09:38:09,351 - LogUtility -INFO - OrangeHRM Inc. WebPage title is:- OrangeHRM
+2023-10-11 09:38:09,353 - LogUtility -INFO - The Actual Title of OrangeHRM Inc. WebPage is NOT matched with the Expected Title | FAIL
+2023-10-11 09:38:09,472 - LogUtility -INFO - OrangeHRM Application Social Icon01 :- null
+2023-10-11 09:38:09,474 - LogUtility -INFO - null is displayed
+2023-10-11 09:38:09,741 - LogUtility -INFO -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+2024-02-28 19:36:15,359 - LogUtility -INFO - ********* Chrome Browser Launched Successfully ******** 
+2024-02-28 19:38:44,803 - LogUtility -INFO - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel

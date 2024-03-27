@@ -1,0 +1,369 @@
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+[main] INFO LogUtility - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+[main] INFO LogUtility - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+[main] INFO LogUtility - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+[main] INFO LogUtility - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+[main] INFO LogUtility - Validation of Log In Button Functionality is Successfully Completed
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - 0 -- Select --
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+[main] INFO LogUtility - Actual Disability Status of LoginPage's FOoter Login Button :- true
+[main] INFO LogUtility - Actual Enable Status of LoginPage's Footer Login Button :- false
+[main] INFO LogUtility - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled | FAIL 
+[main] INFO LogUtility - OrangeHRM LoginPage's Footer LOgin Button Status is:- false
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -"+expected_OrangeHRMApplicationLogInPageText
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+[main] INFO LogUtility - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+[main] INFO LogUtility - Validation of Log In Button Functionality is Successfully Completed
+[main] INFO LogUtility - Successfully Clicked Welcome Admin Element
+[main] INFO LogUtility - Successfully Clicked Log Out
+[main] INFO LogUtility - 0 -- Select --
+[main] INFO LogUtility - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+[main] INFO LogUtility - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+[main] INFO LogUtility - Actual Disability Status of LoginPage's FOoter Login Button :- true
+[main] INFO LogUtility - Actual Enable Status of LoginPage's Footer Login Button :- false
+[main] INFO LogUtility - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+[main] INFO LogUtility - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+[main] INFO LogUtility - Validation of Log In Button Functionality is Successfully Completed
+[main] INFO LogUtility - Successfully Clicked Welcome Admin Element
+[main] INFO LogUtility - Successfully Clicked Log Out
+[main] INFO LogUtility - 0 -- Select --
+[main] INFO LogUtility - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+[main] INFO LogUtility - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+[main] INFO LogUtility - Actual Disability Status of LoginPage's FOoter Login Button :- true
+[main] INFO LogUtility - Actual Enable Status of LoginPage's Footer Login Button :- false
+[main] INFO LogUtility - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+[main] INFO LogUtility - 0 Alternative Login :
+-- Select --
+[main] INFO LogUtility - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+[main] INFO LogUtility - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+[main] INFO LogUtility - Validation of Log In Button Functionality is Successfully Completed
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - 0 -- Select --
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+[main] INFO LogUtility - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+[main] INFO LogUtility - Actual Disability Status of LoginPage's FOoter Login Button :- true
+[main] INFO LogUtility - Actual Enable Status of LoginPage's Footer Login Button :- false
+[main] INFO LogUtility - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - OrangeHRM Footer Div1 Elements are :- 0 Alternative Login :
+-- Select --
+[main] INFO LogUtility - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - OrangeHRM Application footer Div2 Elements are:- 0-- OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - OrangeHrm Inc. is clicked 
+[main] INFO LogUtility - OrangeHRM Inc. WebPage title is:- OrangeHRM
+[main] INFO LogUtility - The Actual Title of OrangeHRM Inc. WebPage is NOT matched with the Expected Title | FAIL
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - OrangeHRM Application Social Icon01 :- null
+[main] INFO LogUtility - null is displayed
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+[main] INFO LogUtility - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+[main] INFO LogUtility - Validation of Log In Button Functionality is Successfully Completed
+[main] INFO LogUtility - Successfully Clicked Welcome Admin Element
+[main] INFO LogUtility - Successfully Clicked Log Out
+[main] INFO LogUtility - 0 -- Select --
+[main] INFO LogUtility - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+[main] INFO LogUtility - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+[main] INFO LogUtility - Actual Disability Status of LoginPage's FOoter Login Button :- true
+[main] INFO LogUtility - Actual Enable Status of LoginPage's Footer Login Button :- false
+[main] INFO LogUtility - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+[main] INFO LogUtility - OrangeHRM Footer Div1 Elements are :- 0 Alternative Login :
+-- Select --
+[main] INFO LogUtility - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+[main] INFO LogUtility - OrangeHRM Application footer Div2 Elements are:- 0-- OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO LogUtility - OrangeHrm Inc. is clicked 
+[main] INFO LogUtility - OrangeHRM Inc. WebPage title is:- OrangeHRM
+[main] INFO LogUtility - The Actual Title of OrangeHRM Inc. WebPage is NOT matched with the Expected Title | FAIL
+[main] INFO LogUtility - OrangeHRM Application Social Icon01 :- null
+[main] INFO LogUtility - null is displayed
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+[main] INFO LogUtility - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+[main] INFO LogUtility - Validation of Log In Button Functionality is Successfully Completed
+[main] INFO LogUtility - Successfully Clicked Welcome Admin Element
+[main] INFO LogUtility - Successfully Clicked Log Out
+[main] INFO LogUtility - 0 -- Select --
+[main] INFO LogUtility - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+[main] INFO LogUtility - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+[main] INFO LogUtility - Actual Disability Status of LoginPage's FOoter Login Button :- true
+[main] INFO LogUtility - Actual Enable Status of LoginPage's Footer Login Button :- false
+[main] INFO LogUtility - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+[main] INFO LogUtility - OrangeHRM Footer Div1 Elements are :- 0 Alternative Login :
+-- Select --
+[main] INFO LogUtility - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+[main] INFO LogUtility - OrangeHRM Application footer Div2 Elements are:- 0-- OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO LogUtility - OrangeHrm Inc. is clicked 
+[main] INFO LogUtility - OrangeHRM Inc. WebPage title is:- OrangeHRM
+[main] INFO LogUtility - The Actual Title of OrangeHRM Inc. WebPage is NOT matched with the Expected Title | FAIL
+[main] INFO LogUtility - OrangeHRM Application Social Icon01 :- null
+[main] INFO LogUtility - null is displayed
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - Successfully Navigated to OrangeHRM Application 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
+[main] INFO LogUtility -  The actual Text of the OrangeHRM Application LogIn Page is :- LOGIN Panel
+[main] INFO LogUtility -  OrangeHRM Application LogInPage Text Validation Sucessfull - PASS 
+[main] INFO LogUtility -  OrangeHRM Application LogIN Page Logo is displayed - PASS
+[main] INFO LogUtility - UserName Entered :-Veerayya || Password Entered:- VeerAyya
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-Subbayya || Password Entered:- Ohrm@987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- ohrm$987
+[main] INFO LogUtility - Failed to Navigate to the Expected OrangeHRM HomePage | FAIL
+[main] INFO LogUtility - UserName Entered :-AnirudhHrm || Password Entered:- Ohrm@987
+[main] INFO LogUtility - ********Successfully Navigated to the OrangeHRM HomePage with Valid Data | PASS
+[main] INFO LogUtility - Validation of Log In Button Functionality is Successfully Completed
+[main] INFO LogUtility - Successfully Clicked Welcome Admin Element
+[main] INFO LogUtility - Successfully Clicked Log Out
+[main] INFO LogUtility - 0 -- Select --
+[main] INFO LogUtility - The Actual Text of OrangeHRM Application Footer Login Button is:- 
+[main] INFO LogUtility - The OHRM LoginPage Footer LoginButton's Actual Text is NOT matched with the expected text |FAIL
+[main] INFO LogUtility - Actual Disability Status of LoginPage's FOoter Login Button :- true
+[main] INFO LogUtility - Actual Enable Status of LoginPage's Footer Login Button :- false
+[main] INFO LogUtility - OrangeHRM LoginPage's Footer LOgin Button is NOT Enabled 
+[main] INFO LogUtility - OrangeHRM Footer Div1 Elements are :- 0 Alternative Login :
+-- Select --
+[main] INFO LogUtility - The actual name of Alternative Login Text is NOT matched with the Expected Text | FAIL
+[main] INFO LogUtility - OrangeHRM Application footer Div2 Elements are:- 0-- OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO LogUtility - OrangeHrm Inc. is clicked 
+[main] INFO LogUtility - OrangeHRM Inc. WebPage title is:- OrangeHRM
+[main] INFO LogUtility - The Actual Title of OrangeHRM Inc. WebPage is NOT matched with the Expected Title | FAIL
+[main] INFO LogUtility - OrangeHRM Application Social Icon01 :- null
+[main] INFO LogUtility - null is displayed
+[main] INFO LogUtility -  **** Chorme Browser Closed with the OrangeHRM Application Successfully *******
+[main] INFO LogUtility - ********* Chrome Browser Launched Successfully ******** 
+[main] INFO LogUtility - The Expected text of the OrangeHRM Application LogIn Page is : -LOGIN Panel
